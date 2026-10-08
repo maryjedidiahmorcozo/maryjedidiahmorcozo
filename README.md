@@ -379,7 +379,11 @@ ERROR = ANOTHER THING TO LEARN
 
 ### `MY ACTIVITY`
 
-![Mary's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maryjedidiahmorcozo&hide_border=true&bg_color=fff0f6&line=ff69b4&point=ff1493&area=true&area_color=ffd6e7)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryjedidiahmorcozo&hide_border=true&bg_color=fff0f6&line=ff69b4&point=ff1493&area=true&area_color=ffd6e7" alt="Mary's GitHub Activity Graph">
+
+</div>
 
 ## `11` ── CONTRIBUTION SNAKE
 
