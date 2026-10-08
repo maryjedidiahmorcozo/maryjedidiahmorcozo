@@ -28,23 +28,23 @@
 ## `01` ── PLAYER PROFILE
 
 ```text
-╔══════════════════════════════════════════════════════╗
+╔════════════════════════════════╗
 ║                    PLAYER PROFILE                   ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  NAME       : Mary Jedidiah M. Morcozo               ║
-║  NICKNAME   : Jedi                                   ║
-║  CLASS      : BS Information Systems Student         ║
-║  SCHOOL     : Bicol University–Polangui              ║
-║  LOCATION   : Camalig, Albay, Philippines            ║
-║                                                      ║
-║  MAIN QUEST : Become a System Analyst                ║
-║  SIDE QUEST : Build useful systems                   ║
-║  COMPANION  : Yuki                                   ║
-║                                                      ║
-║  STATUS     : LEARNING / BUILDING / IMPROVING        ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╠════════════════════════════════╣
+║                                                     ║
+║  NAME       : Mary Jedidiah M. Morcozo              ║
+║  NICKNAME   : Jedi                                  ║
+║  CLASS      : BS Information Systems Student        ║
+║  SCHOOL     : Bicol University–Polangui             ║
+║  LOCATION   : Camalig, Albay, Philippines           ║
+║                                                     ║
+║  MAIN QUEST : Become a System Analyst               ║
+║  SIDE QUEST : Build useful systems                  ║
+║  COMPANION  : Yuki                                  ║ 
+║                                                     ║
+║  STATUS     : LEARNING / BUILDING / IMPROVING       ║
+║                                                     ║
+╚════════════════════════════════╝
 ```
 
 I'm **Mary Jedidiah M. Morcozo**, but you can call me **Jedi**.
@@ -241,9 +241,9 @@ When I'm not coding or working on school projects, I enjoy playing games.
 ### PLAYER CARD
 
 ```text
-╔══════════════════════════════════════════════════╗
+╔══════════════════════════════╗
 ║                 PLAYER CARD                      ║
-╠══════════════════════════════════════════════════╣
+╠══════════════════════════════╣
 ║                                                  ║
 ║  PLAYER       : JEDI                             ║
 ║  CLASS        : INFORMATION SYSTEMS              ║
@@ -254,7 +254,7 @@ When I'm not coding or working on school projects, I enjoy playing games.
 ║                                                  ║
 ║  CURRENT QUEST: SYSTEM ANALYST                   ║
 ║                                                  ║
-╚══════════════════════════════════════════════════╝
+╚══════════════════════════════╝
 ```
 
 ### GAMES I ENJOY
@@ -267,17 +267,17 @@ When I'm not coding or working on school projects, I enjoy playing games.
 <br>
 
 ```text
-╔══════════════════════════════════════╗
-║          CURRENT GAME STATUS         ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  EXPLORING       [████████░░] 80%   ║
-║  LEARNING        [█████████░] 90%   ║
+╔═════════════════════════╗
+║          CURRENT GAME STATUS             ║
+╠═════════════════════════╣
+║                                          ║
+║  EXPLORING       [████████░░] 80%  ║
+║  LEARNING        [█████████░] 90%  ║
 ║  CODING          [███████░░░] 70%   ║
 ║  DEBUGGING       [██████░░░░] 60%   ║
-║  SLEEPING        [███░░░░░░░] 30%   ║
-║                                      ║
-╚══════════════════════════════════════╝
+║  SLEEPING        [███░░░░░░░] 30%    ║
+║                                         ║
+╚═════════════════════════╝
 ```
 
 </details>
@@ -329,12 +329,12 @@ ERROR = ANOTHER THING TO LEARN
 ## `08` ── CURRENT QUEST
 
 ```text
-╔══════════════════════════════════════════════════╗
+╔══════════════════════════════╗
 ║                  MAIN QUEST                      ║
-╠══════════════════════════════════════════════════╣
+╠══════════════════════════════╣
 ║                                                  ║
 ║  [✓] Learn web development                      ║
-║  [✓] Learn Git & GitHub                          ║
+║  [✓] Learn Git & GitHub                         ║
 ║  [✓] Build school projects                      ║
 ║  [✓] Explore full-stack development              ║
 ║  [ ] Improve backend development                  ║
@@ -343,22 +343,22 @@ ERROR = ANOTHER THING TO LEARN
 ║  [ ] Gain professional experience                 ║
 ║  [ ] Become a System Analyst                      ║
 ║                                                  ║
-╚══════════════════════════════════════════════════╝
+╚══════════════════════════════╝
 ```
 
 ### FINAL OBJECTIVE
 
 ```text
-             ┌───────────────────┐
-             │   SYSTEM ANALYST  │
-             └─────────┬─────────┘
+             ┌───────────┐
+             │   SYSTEM ANALYST │
+             └─────────┬─┘
                        │
-          ┌────────────┼────────────┐
+          ┌────────────┼───┐
           ↓            ↓            ↓
        SYSTEMS        USERS        DATA
        DESIGN         NEEDS      ANALYSIS
           │            │            │
-          └────────────┼────────────┘
+          └────────────┼──┘
                        ↓
                 BETTER SYSTEMS
 ```
@@ -454,7 +454,7 @@ One of my personal dreams is to someday create something that can help **homeles
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════╗
+╔═══════════════════════════╗
 ║                                              ║
 ║              JEDI.EXE                        ║
 ║                                              ║
@@ -469,10 +469,10 @@ One of my personal dreams is to someday create something that can help **homeles
 ║       ONE GAME                               ║
 ║            +                                 ║
 ║       ONE LESSON                             ║
-║            ↓                                 ║
+║            ↓                                ║
 ║           GROWTH                             ║
 ║                                              ║
-╚══════════════════════════════════════════════╝
+╚════════════════════════════╝
 ```
 
 ### `KEEP LEARNING · KEEP BUILDING · KEEP PLAYING`
