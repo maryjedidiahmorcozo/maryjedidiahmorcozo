@@ -375,19 +375,6 @@ ERROR = ANOTHER THING TO LEARN
 
 <img src="https://streak-stats.demolab.com?user=maryjedidiahmorcozo&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4">
 
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/maryjedidiahmorcozo">
-<img src="https://streak-stats.demolab.com?user=maryjedidiahmorcozo&hide_border=true&theme=transparent" />
-</a>
-
-</div>
-
-
 ## `10` ── CONTRIBUTION QUEST
 
 ### `MY ACTIVITY`
@@ -401,9 +388,6 @@ ERROR = ANOTHER THING TO LEARN
 ---
 
 ## `11` ── CONTRIBUTION SNAKE
----
-
-## 🐍・CONTRIBUTION SNAKE
 
 <div align="center">
 
