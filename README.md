@@ -369,13 +369,11 @@ ERROR = ANOTHER THING TO LEARN
 
 <div align="center">
 
-<a href="https://github.com/maryjedidiahmorcozo">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maryjedidiahmorcozo&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=maryjedidiahmorcozo&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4">
 
-<a href="https://github.com/maryjedidiahmorcozo">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryjedidiahmorcozo&layout=compact&hide_border=true&theme=transparent" />
-</a>
+<br>
+
+<img src="https://streak-stats.demolab.com?user=maryjedidiahmorcozo&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4">
 
 </div>
 
@@ -389,7 +387,6 @@ ERROR = ANOTHER THING TO LEARN
 
 </div>
 
----
 
 ## `10` ── CONTRIBUTION QUEST
 
@@ -404,16 +401,15 @@ ERROR = ANOTHER THING TO LEARN
 ---
 
 ## `11` ── CONTRIBUTION SNAKE
+---
+
+## 🐍・CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maryjedidiahmorcozo/maryjedidiahmorcozo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/maryjedidiahmorcozo/maryjedidiahmorcozo/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
-
-> The snake animation requires the GitHub Actions workflow described below.
-
----
 
 ## `12` ── QUICK FACTS
 
