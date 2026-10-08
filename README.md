@@ -2,7 +2,7 @@
 
 # `JEDI.EXE`
 
-### MARY JEDIDIAH MORCOZO
+### MARY JEDIDIAH M. MORCOZO
 
 **BS Information Systems Student · Developer in Progress · Future System Analyst**
 
