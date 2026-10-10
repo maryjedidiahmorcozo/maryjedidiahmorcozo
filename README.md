@@ -7,8 +7,8 @@
 **BS Information Systems Student | Future System Analyst**
 
 <img src="https://img.shields.io/badge/STATUS-LEVELING_UP-ff69b4?style=for-the-badge&labelColor=2b1830" />
-<img src="https://img.shields.io/badge/BUILD-IDEAS_IN_PROGRESS-ff85c1?style=for-the-badge&labelColor=2b1830" />
-<img src="https://img.shields.io/badge/REGION-ALBAY_PH-ffc0cb?style=for-the-badge&labelColor=2b1830" />
+<img src="https://img.shields.io/badge/CODING_SINCE-AUG_10_2026-ff85c1?style=for-the-badge&labelColor=2b1830" />
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-79-ffc0cb?style=for-the-badge&labelColor=2b1830" />
 
 [MY REPOSITORIES](https://github.com/maryjedidiahmorcozo?tab=repositories) · [MY PROFILE](https://github.com/maryjedidiahmorcozo)
 
@@ -41,7 +41,7 @@ I'm still a work in progress, but every project gives me another chance to level
 
 ## `02 / SKILL TREE`
 
-<text color="#ff69b4" weight="medium">UNLOCKED SKILLS</text>
+**UNLOCKED SKILLS**
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-ff69b4?style=flat-square&logo=html5&logoColor=white" />
@@ -50,7 +50,7 @@ I'm still a work in progress, but every project gives me another chance to level
 <img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<text color="#ff69b4" weight="medium">BACKEND & DATABASE QUESTS</text>
+**BACKEND & DATABASE QUESTS**
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-ff85c1?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -59,7 +59,7 @@ I'm still a work in progress, but every project gives me another chance to level
 <img src="https://img.shields.io/badge/Mongoose-ff85c1?style=flat-square" />
 </p>
 
-<text color="#ff69b4" weight="medium">EQUIPMENT</text>
+**EQUIPMENT**
 
 <p>
 <img src="https://img.shields.io/badge/VS_Code-ff69b4?style=flat-square&logo=visualstudiocode&logoColor=white" />
@@ -108,17 +108,90 @@ A budgeting app concept for organizing expenses, tracking spending, and helping 
 
 ---
 
-## `04 / CURRENT MISSION`
+## `04 / MISSION CONTROL`
 
-```text
-[ IN PROGRESS ] Improve backend development
-[ IN PROGRESS ] Practice database integration
-[ IN PROGRESS ] Build full-stack applications
-[ IN PROGRESS ] Improve system design skills
-[ FUTURE      ] Become a System Analyst
-```
+<div align="center">
 
-My goal is not just to write code. I want to understand the problem behind the code and help build systems that people can actually use.
+<img src="https://img.shields.io/badge/QUEST_BOARD-PLAYER_001-ff69b4?style=for-the-badge&labelColor=2b1830" />
+
+### 🎮 THE DEVELOPER QUESTLINE
+
+*Main objective: turn ideas into working systems.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**♡ QUEST 01**
+
+### Frontend Architect
+
+<img src="https://img.shields.io/badge/STATUS-UNLOCKED-ff69b4?style=flat-square" />
+
+- [x] Build with HTML & CSS
+- [x] Practice JavaScript
+- [x] Explore Bootstrap
+
+</td>
+<td width="50%">
+
+**♡ QUEST 02**
+
+### Backend Explorer
+
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-ff85c1?style=flat-square" />
+
+- [x] Start learning Node.js
+- [x] Explore Express.js
+- [ ] Strengthen API development
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**♡ QUEST 03**
+
+### Database Guardian
+
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-ff85c1?style=flat-square" />
+
+- [x] Explore MongoDB
+- [ ] Improve database integration
+- [ ] Practice data management
+
+</td>
+<td width="50%">
+
+**♡ QUEST 04**
+
+### System Designer
+
+<img src="https://img.shields.io/badge/STATUS-LOADING...-ffc0cb?style=flat-square" />
+
+- [ ] Understand user requirements
+- [ ] Improve system design
+- [ ] Create practical solutions
+
+</td>
+</tr>
+</table>
+
+### `FINAL BOSS` — THE SYSTEM ANALYST
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=gradient&customColorList=12,20,24&text=SYSTEM%20ANALYST&fontColor=ffffff&fontSize=30&animation=fadeIn" width="100%" />
+
+**MISSION:** Understand problems. Analyze requirements. Design useful systems.
+
+`[ LEARNING ]` → `[ BUILDING ]` → `[ ANALYZING ]` → `[ LEVEL UP ]`
+
+</div>
+
+> *Every bug is a puzzle. Every project is experience. Every commit moves me closer to the goal.* 💗
 
 ---
 
@@ -126,7 +199,7 @@ My goal is not just to write code. I want to understand the problem behind the c
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CATS-FOREVER-ff69b4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CATS-FOREVER-ff69b4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/POKEMON-TRAINER-ff85c1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ANIME-WATCHLIST-ffc0cb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GAMING-CHILL_MODE-ff69b4?style=for-the-badge" />
@@ -139,7 +212,25 @@ And one dream outside technology? Creating a business that helps homeless cats f
 
 ---
 
-## `06 / GITHUB PLAYER STATS`
+## `06 / CONTRIBUTION RECORD`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CODING_JOURNEY-STARTED_AUGUST_10%2C_2026-ff69b4?style=for-the-badge&labelColor=2b1830" />
+
+<img src="https://img.shields.io/badge/TOTAL_CONTRIBUTIONS-79-ff85c1?style=for-the-badge&labelColor=2b1830" />
+
+### `79 CONTRIBUTIONS AND COUNTING`
+
+**My developer journey started on August 10, 2026.**
+
+Every commit, project, and bug fixed is another step forward. I'm still learning, still building, and still leveling up.
+
+</div>
+
+---
+
+## `07 / GITHUB PLAYER STATS`
 
 <div align="center">
 
@@ -153,7 +244,7 @@ And one dream outside technology? Creating a business that helps homeless cats f
 
 ---
 
-## `07 / SAVE POINT`
+## `08 / SAVE POINT`
 
 > Every developer starts somewhere. I'm here to learn, experiment, make mistakes, and build something meaningful one step at a time.
 
