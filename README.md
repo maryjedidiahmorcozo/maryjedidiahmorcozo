@@ -31,15 +31,15 @@
 ╭──────────────────────────────────────────────╮
 │                 PLAYER INFO                  │
 ├──────────────────────────────────────────────┤
-│  NAME       : Mary Jedidiah M. Morcozo        │
-│  NICKNAME   : Jedi                            │
-│  CLASS      : BS Information Systems Student  │
-│  SCHOOL     : Bicol University - Polangui     │
-│  LOCATION   : Camalig, Albay, Philippines     │
-│  MAIN QUEST : Future System Analyst           │
-│  SIDE QUEST : Coding, Gaming & Exploring      │
-│  COMPANION  : Yuki 🐈                          │
-│  STATUS     : Learning and leveling up        │
+│  NAME       : Mary Jedidiah M. Morcozo       │
+│  NICKNAME   : Jedi                           │
+│  CLASS      : BS Information Systems Student │
+│  SCHOOL     : Bicol University - Polangui    │
+│  LOCATION   : Camalig, Albay, Philippines    │
+│  MAIN QUEST : Future System Analyst          │
+│  SIDE QUEST : Coding, Gaming & Exploring     │
+│  COMPANION  : Yuki 🐈                        │
+│  STATUS     : Learning and leveling up       │
 ╰──────────────────────────────────────────────╯
 ```
 
@@ -126,12 +126,12 @@ A budgeting app concept designed to help students organize expenses, track spend
 ╭──────────────────────────────────────╮
 │            PLAYER CARD               │
 ├──────────────────────────────────────┤
-│  PLAYER       : JEDI                  │
-│  FAVORITES    : Pokémon & Anime       │
-│  GAME MODE    : Casual                │
-│  PLAY STYLE   : Explore and Have Fun  │
-│  COMPANION    : Yuki 🐈                │
-│  CURRENT MOOD : Ready to Play         │
+│  PLAYER       : JEDI                 │
+│  FAVORITES    : Pokémon & Anime      │
+│  GAME MODE    : Casual               │
+│  PLAY STYLE   : Explore and Have Fun │
+│  COMPANION    : Yuki 🐈              │
+│  CURRENT MOOD : Ready to Play        │
 ╰──────────────────────────────────────╯
 ```
 
