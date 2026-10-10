@@ -1,280 +1,170 @@
  <div align="center">
 
-# 💗 `MARY.DEV`
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:ffd6e7,50:ff85c1,100:ff1493&text=MARY.DEV&fontColor=ffffff&fontSize=65&fontAlignY=45&desc=SYSTEMS%20THINKER%20%7C%20CODE%20EXPLORER&descSize=15&descAlignY=65&animation=fadeIn" width="100%" />
 
-### MARY JEDIDIAH M. MORCOZO
+### `PLAYER 001` · MARY JEDIDIAH M. MORCOZO
 
-**BS Information Systems Student · Developer in Progress · Future System Analyst**
+**BS Information Systems Student | Future System Analyst**
 
-`SYSTEMS` · `WEB DEVELOPMENT` · `GAMING` · `PROBLEM SOLVING`
+<img src="https://img.shields.io/badge/STATUS-LEVELING_UP-ff69b4?style=for-the-badge&labelColor=2b1830" />
+<img src="https://img.shields.io/badge/BUILD-IDEAS_IN_PROGRESS-ff85c1?style=for-the-badge&labelColor=2b1830" />
+<img src="https://img.shields.io/badge/REGION-ALBAY_PH-ffc0cb?style=for-the-badge&labelColor=2b1830" />
+
+[MY REPOSITORIES](https://github.com/maryjedidiahmorcozo?tab=repositories) · [MY PROFILE](https://github.com/maryjedidiahmorcozo)
+
+</div>
+
+---
+
+## `01 / CHARACTER FILE`
+
+```text
+┌─────────────────────────────────────────────┐
+│  USER PROFILE                        ONLINE │
+├─────────────────────────────────────────────┤
+│  NAME       Mary Jedidiah M. Morcozo        │
+│  ALIAS      Jedi                            │
+│  CLASS      Information Systems Student     │
+│  ORIGIN     Camalig, Albay, Philippines     │
+│  SPECIALTY  Systems • Web • Problem Solving │
+│  MAIN QUEST Become a System Analyst         │
+│  SIDE QUEST Build useful things with code   │
+│  PET NPC    Yuki the Cat                    │
+└─────────────────────────────────────────────┘
+```
+
+Hi! I'm Jedi, an Information Systems student learning how technology, data, and people work together. I started exploring coding during senior high school, and I'm continuing that journey by building projects, experimenting with tools, and learning from my mistakes.
+
+I'm still a work in progress, but every project gives me another chance to level up. 💗
+
+---
+
+## `02 / SKILL TREE`
+
+<text color="#ff69b4" weight="medium">UNLOCKED SKILLS</text>
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-ff69b4?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-ff85c1?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-ffc0cb?style=flat-square&logo=javascript&logoColor=333" />
+<img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+<text color="#ff69b4" weight="medium">BACKEND & DATABASE QUESTS</text>
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-ff85c1?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-ff69b4?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-ffc0cb?style=flat-square&logo=mongodb&logoColor=333" />
+<img src="https://img.shields.io/badge/Mongoose-ff85c1?style=flat-square" />
+</p>
+
+<text color="#ff69b4" weight="medium">EQUIPMENT</text>
+
+<p>
+<img src="https://img.shields.io/badge/VS_Code-ff69b4?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-ff85c1?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-ff69b4?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-ffc0cb?style=flat-square&logo=render&logoColor=333" />
+</p>
+
+*Skills are still evolving. New abilities are being added as I learn.*
+
+---
+
+## `03 / INVENTORY: PROJECTS`
+
+<details>
+<summary>🍱 <strong>BU QuickBites</strong> — Campus Food Delivery Concept</summary>
+
+A snack and lunch ordering app concept for Bicol University–Polangui students, designed to make food ordering more convenient during busy school hours.
+
+**Focus:** Student convenience, ordering experience, and campus needs.
+</details>
+
+<details>
+<summary>🔐 <strong>SmartLock'NGo</strong> — Smart Locker System</summary>
+
+A smart locker concept featuring QR codes and automated payment to make storing belongings more convenient for students.
+
+**Focus:** Secure storage, practical automation, and user experience.
+</details>
+
+<details>
+<summary>🖨️ <strong>Singko Printing Station</strong> — Self-Service Printing</summary>
+
+An affordable self-service printing station concept with the tagline **"Print on the Go."**
+
+**Focus:** Student accessibility and convenient printing.
+</details>
+
+<details>
+<summary>💰 <strong>BudgetPal</strong> — Student Budgeting Concept</summary>
+
+A budgeting app concept for organizing expenses, tracking spending, and helping students become more mindful of their money.
+
+**Focus:** Expense tracking and financial organization.
+</details>
+
+---
+
+## `04 / CURRENT MISSION`
+
+```text
+[ IN PROGRESS ] Improve backend development
+[ IN PROGRESS ] Practice database integration
+[ IN PROGRESS ] Build full-stack applications
+[ IN PROGRESS ] Improve system design skills
+[ FUTURE      ] Become a System Analyst
+```
+
+My goal is not just to write code. I want to understand the problem behind the code and help build systems that people can actually use.
+
+---
+
+## `05 / PLAYER TWO: LIFE OUTSIDE CODE`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CATS-FOREVER-ff69b4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/POKEMON-TRAINER-ff85c1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ANIME-WATCHLIST-ffc0cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GAMING-CHILL_MODE-ff69b4?style=for-the-badge" />
+
+</div>
+
+When I'm away from my editor, I enjoy anime, Pokémon, games, movies, dancing, jogging, walking, and badminton. I may be shy at first, but once I'm comfortable, the fun side comes out.
+
+And one dream outside technology? Creating a business that helps homeless cats find shelter and care. 🐈
+
+---
+
+## `06 / GITHUB PLAYER STATS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maryjedidiahmorcozo&show_icons=true&hide_border=true&bg_color=fff0f6&title_color=ff1493&icon_color=ff69b4&text_color=66334d" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=maryjedidiahmorcozo&hide_border=true&background=fff0f6&ring=ff69b4&fire=ff1493&currStreakLabel=ff1493&sideLabels=66334d&dates=996680" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## `07 / SAVE POINT`
+
+> Every developer starts somewhere. I'm here to learn, experiment, make mistakes, and build something meaningful one step at a time.
+
+<div align="center">
+
+**`KEEP LEARNING // KEEP BUILDING // KEEP PLAYING`**
+
+<img src="https://komarev.com/ghpvc/?username=maryjedidiahmorcozo&label=PROFILE+VISITORS&color=ff69b4&style=flat-square" alt="Profile Visitors" />
 
 <br>
 
-<a href="https://github.com/maryjedidiahmorcozo">
-<img src="https://img.shields.io/badge/GitHub-maryjedidiahmorcozo-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/maryjedidiahmorcozo?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-**`[ STATUS: ONLINE ]`**
-
-</div>
-
----
-
-## `01` ── PLAYER PROFILE
-
-```text
-╭──────────────────────────────────────────────╮
-│                 PLAYER INFO                  │
-├──────────────────────────────────────────────┤
-│  NAME       : Mary Jedidiah M. Morcozo       │
-│  NICKNAME   : Jedi                           │
-│  CLASS      : BS Information Systems Student │
-│  SCHOOL     : Bicol University - Polangui    │
-│  LOCATION   : Camalig, Albay, Philippines    │
-│  MAIN QUEST : Future System Analyst          │
-│  SIDE QUEST : Coding, Gaming & Exploring     │
-│  COMPANION  : Yuki 🐈                        │
-│  STATUS     : Learning and leveling up       │
-╰──────────────────────────────────────────────╯
-```
-
-## `02` ── NAVIGATION
-
-- [About Me](#03--about-me)
-- [Technology](#04--technology)
-- [Projects](#05--projects)
-- [Gaming Corner](#06--gaming-corner)
-- [Coding Journey](#07--coding-journey)
-- [Current Quest](#08--current-quest)
-- [GitHub Stats](#09--github-stats)
-- [Contribution Quest](#10--contribution-quest)
-- [Contribution Snake](#11--contribution-snake)
-- [Quick Facts](#12--quick-facts)
-- [Beyond Code](#13--beyond-code)
-- [Connect](#14--connect)
-
----
-
-## `03` ── ABOUT ME
-
-Hi! I'm **Mary Jedidiah**, but you can call me **Jedi**. I'm an Information Systems student who enjoys learning how technology works and how it can solve real-world problems.
-
-I'm still growing as a developer, exploring different technologies, and learning through school activities and personal projects. I may be shy at first, but once I'm comfortable, I'm friendly and enjoy having fun.
-
-Outside coding, I enjoy gaming, anime, Pokémon, watching movies, dancing, jogging, walking, and playing badminton. I also love cats, especially my cat, Yuki. One of my dreams is to build a business that can provide shelter and help for homeless cats. 💗
-
----
-
-## `04` ── TECHNOLOGY
-
-### Languages and Web Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-ff85c1?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-ffb6d9?style=for-the-badge&logo=javascript&logoColor=333" />
-<img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### Backend and Database
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-ff85c1?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-ff69b4?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-ffb6d9?style=for-the-badge&logo=mongodb&logoColor=333" />
-</p>
-
-### Tools and Platforms
-
-<p>
-<img src="https://img.shields.io/badge/VS_Code-ff69b4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-ff85c1?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-ffb6d9?style=for-the-badge&logo=render&logoColor=333" />
-</p>
-
----
-
-## `05` ── PROJECTS
-
-### 🍱 BU QuickBites
-
-A snack and lunch delivery app concept for Bicol University–Polangui students, designed to make ordering food during busy school hours more convenient.
-
-### 🔐 SmartLock'NGo
-
-A smart locker system concept using QR codes and automated payment to provide students with a convenient way to store their belongings securely.
-
-### 🖨️ Singko Printing Station
-
-An affordable self-service printing station concept focused on convenient printing access for students, with the tagline **"Print on the Go."**
-
-### 💰 BudgetPal
-
-A budgeting app concept designed to help students organize expenses, track spending, and manage their money more effectively.
-
----
-
-## `06` ── GAMING CORNER
-
-```text
-╭──────────────────────────────────────╮
-│            PLAYER CARD               │
-├──────────────────────────────────────┤
-│  PLAYER       : JEDI                 │
-│  FAVORITES    : Pokémon & Anime      │
-│  GAME MODE    : Casual               │
-│  PLAY STYLE   : Explore and Have Fun │
-│  COMPANION    : Yuki 🐈              │
-│  CURRENT MOOD : Ready to Play        │
-╰──────────────────────────────────────╯
-```
-
-Gaming is one of my favorite ways to relax. I enjoy exploring games, discovering new things, and having fun outside my coding journey.
-
----
-
-## `07` ── CODING JOURNEY
-
-My coding journey started during senior high school, where I first explored programming. Since then, I've continued learning through my Information Systems program and practical activities.
-
-I'm learning that development isn't only about writing code. It's also about understanding users, organizing data, solving problems, and creating systems that are useful in real life.
-
-```text
-while (learning) {
-    try {
-        buildSomething();
-        learnSomethingNew();
-    } catch (error) {
-        debug(error);
-        tryAgain();
-    }
-}
-```
-
-Errors are part of the process. Every mistake is another chance to learn something new.
-
----
-
-## `08` ── CURRENT QUEST
-
-- [x] Start learning web development
-- [x] Explore HTML, CSS, and JavaScript
-- [x] Practice using Git and GitHub
-- [x] Build school project prototypes
-- [ ] Improve backend development skills
-- [ ] Build more complete full-stack applications
-- [ ] Strengthen database and system design skills
-- [ ] Become a System Analyst someday
-
-```text
-STUDENT
-   ↓
-DEVELOPER IN PROGRESS
-   ↓
-FULL-STACK LEARNER
-   ↓
-FUTURE SYSTEM ANALYST
-```
-
----
-
-## `09` ── GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maryjedidiahmorcozo&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=maryjedidiahmorcozo&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
-
-</div>
-
----
-
-## `10` ── CONTRIBUTION QUEST
-
-### `MY ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryjedidiahmorcozo&hide_border=true&bg_color=fff0f6&line=ff69b4&point=ff1493&area=true&area_color=ffd6e7" alt="Mary's GitHub Activity Graph" />
-
-</div>
-
----
-
-## `11` ── CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/maryjedidiahmorcozo/maryjedidiahmorcozo/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## `12` ── QUICK FACTS
-
-- **Nickname:** Jedi
-- **Course:** Bachelor of Science in Information Systems
-- **School:** Bicol University–Polangui
-- **Hometown:** Camalig, Albay
-- **Favorite companion:** My cat, Yuki
-- **Career goal:** System Analyst or a related role in Information Systems
-- **Personal dream:** Help homeless cats find shelter and care
-
----
-
-## `13` ── BEYOND CODE
-
-When I'm not coding, you might find me watching anime, playing games, exploring Pokémon, spending time with cats, or enjoying my other hobbies.
-
-I believe learning should be a journey where I can keep improving, try new things, and enjoy the process along the way.
-
----
-
-## `14` ── CONNECT
-
-<div align="center">
-
-<a href="https://github.com/maryjedidiahmorcozo">
-<img src="https://img.shields.io/badge/GitHub-Visit_My_Profile-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/maryjedidiahmorcozo?tab=repositories">
-<img src="https://img.shields.io/badge/My_Projects-Explore_Repositories-ff85c1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=maryjedidiahmorcozo&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-## `15` ── FINAL MESSAGE
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│                 MARY.DEV                     │
-│                                              │
-│       KEEP LEARNING · KEEP BUILDING          │
-│                 KEEP PLAYING                 │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-**Thanks for visiting my profile.** 💗
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff85c1,100:ffd6e7&height=100&section=footer" width="100%" />
 
 </div>
