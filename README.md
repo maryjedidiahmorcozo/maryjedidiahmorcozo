@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/STATUS-LEVELING_UP-ff69b4?style=for-the-badge&labelColor=2b1830" />
 <img src="https://img.shields.io/badge/CODING_SINCE-AUG_10_2026-ff85c1?style=for-the-badge&labelColor=2b1830" />
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-79-ffc0cb?style=for-the-badge&labelColor=2b1830" />
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-92-ffc0cb?style=for-the-badge&labelColor=2b1830" />
 
 [MY REPOSITORIES](https://github.com/maryjedidiahmorcozo?tab=repositories) · [MY PROFILE](https://github.com/maryjedidiahmorcozo)
 
