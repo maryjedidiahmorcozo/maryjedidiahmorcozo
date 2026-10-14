@@ -252,10 +252,10 @@ Every commit, project, and bug fixed is another step forward. I'm still learning
 
 **`KEEP LEARNING // KEEP BUILDING // KEEP PLAYING`**
 
-<img src="https://komarev.com/ghpvc/?username=maryjedidiahmorcozo&label=PROFILE+VISITORS&color=ff69b4&style=flat-square" alt="Profile Visitors" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maryjedidiahmorcozo&label=PROFILE+VISITORS&color=ff69b4&style=flat-square" alt="Profile Visitors" />
+</p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff85c1,100:ffd6e7&height=100&section=footer" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff85c1,100:ffd6e7&height=100&section=footer" width="100%" alt="Pink wave footer" />
