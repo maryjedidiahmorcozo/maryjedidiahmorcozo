@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/STATUS-LEVELING_UP-ff69b4?style=for-the-badge&labelColor=2b1830" />
 <img src="https://img.shields.io/badge/CODING_SINCE-AUG_10_2026-ff85c1?style=for-the-badge&labelColor=2b1830" />
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-109-ffc0cb?style=for-the-badge&labelColor=2b1830" />
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-111-ffc0cb?style=for-the-badge&labelColor=2b1830" />
 
 [MY REPOSITORIES](https://github.com/maryjedidiahmorcozo?tab=repositories) · [MY PROFILE](https://github.com/maryjedidiahmorcozo)
 
@@ -218,9 +218,9 @@ And one dream outside technology? Creating a business that helps homeless cats f
 
 <img src="https://img.shields.io/badge/CODING_JOURNEY-STARTED_AUGUST_10%2C_2026-ff69b4?style=for-the-badge&labelColor=2b1830" />
 
-<img src="https://img.shields.io/badge/TOTAL_CONTRIBUTIONS-109-ff85c1?style=for-the-badge&labelColor=2b1830" />
+<img src="https://img.shields.io/badge/TOTAL_CONTRIBUTIONS-111-ff85c1?style=for-the-badge&labelColor=2b1830" />
 
-### `109 CONTRIBUTIONS AND COUNTING`
+### `111 CONTRIBUTIONS AND COUNTING`
 
 **My developer journey started on August 10, 2026.**
 
@@ -250,12 +250,16 @@ Every commit, project, and bug fixed is another step forward. I'm still learning
 
 <div align="center">
 
-**`KEEP LEARNING // KEEP BUILDING // KEEP PLAYING`**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maryjedidiahmorcozo&label=PROFILE%20VISITORS&color=ff69b4&style=for-the-badge" alt="PROFILE VISITORS" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maryjedidiahmorcozo&label=PROFILE+VISITORS&color=ff69b4&style=flat-square" alt="Profile Visitors" />
+  <b>KEEP LEARNING // KEEP BUILDING // KEEP PLAYING</b>
 </p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff85c1,100:ffd6e7&height=100&section=footer" width="100%" alt="Pink wave footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff85c1,100:ffd6e7&height=100&section=footer" width="100%" alt="Pink wave footer" />
+</p>
