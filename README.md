@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/STATUS-LEVELING_UP-ff69b4?style=for-the-badge&labelColor=2b1830" />
 <img src="https://img.shields.io/badge/CODING_SINCE-AUG_10_2026-ff85c1?style=for-the-badge&labelColor=2b1830" />
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-111-ffc0cb?style=for-the-badge&labelColor=2b1830" />
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-114-ffc0cb?style=for-the-badge&labelColor=2b1830" />
 
 [MY REPOSITORIES](https://github.com/maryjedidiahmorcozo?tab=repositories) · [MY PROFILE](https://github.com/maryjedidiahmorcozo)
 
@@ -218,9 +218,9 @@ And one dream outside technology? Creating a business that helps homeless cats f
 
 <img src="https://img.shields.io/badge/CODING_JOURNEY-STARTED_AUGUST_10%2C_2026-ff69b4?style=for-the-badge&labelColor=2b1830" />
 
-<img src="https://img.shields.io/badge/TOTAL_CONTRIBUTIONS-111-ff85c1?style=for-the-badge&labelColor=2b1830" />
+<img src="https://img.shields.io/badge/TOTAL_CONTRIBUTIONS-114-ff85c1?style=for-the-badge&labelColor=2b1830" />
 
-### `111 CONTRIBUTIONS AND COUNTING`
+### `114 CONTRIBUTIONS AND COUNTING`
 
 **My developer journey started on August 10, 2026.**
 
